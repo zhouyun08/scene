@@ -1,0 +1,3 @@
+沙发.obj 桌子.obj 右边
+桌子.obj 风扇.obj 上
+桌子.obj 老鼠.obj 后面
